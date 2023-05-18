@@ -1,1 +1,4 @@
-# db_comp_v2023.2.23
+# Publish to Github Gist
+
+- Make this into a python package
+- Use it to auto-publish to Gist whenever you update your code
