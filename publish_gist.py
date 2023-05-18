@@ -3,7 +3,7 @@ import requests
 url = "https://api.github.com/gists"
 headers = {
     "Accept": "application/vnd.github+json",
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer <-- TOKEN -->",
     "X-GitHub-Api-Version": "2022-11-28"
 }
 data = {
